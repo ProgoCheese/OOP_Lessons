@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Артемий\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\OOP_Lessons.csproj",
-      "projectName": "OOP_Lessons",
-      "projectPath": "D:\\Артемий\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\OOP_Lessons.csproj",
+      "projectUniqueName": "D:\\Артемий\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\My_Range.csproj",
+      "projectName": "My_Range",
+      "projectPath": "D:\\Артемий\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\My_Range.csproj",
       "packagesPath": "C:\\Users\\90458\\.nuget\\packages\\",
       "outputPath": "D:\\Артемий\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\My_Range.exe
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\My_Range.deps.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\My_Range.runtimeconfig.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\My_Range.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\My_Range.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.AssemblyInfoInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.AssemblyInfo.cs
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.csproj.CoreCompileInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.sourcelink.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\refint\My_Range.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\My_Range.genruntimeconfig.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\ref\My_Range.dll

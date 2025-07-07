@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4245DAF-CAF7-46DB-BADD-474B9A1EF6C7}|OOP_Lessons\\OOP_Lessons.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\oop_lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4245DAF-CAF7-46DB-BADD-474B9A1EF6C7}|OOP_Lessons\\OOP_Lessons.csproj|solutionrelative:oop_lessons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\my_shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|solutionrelative:my_shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\my_shape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|solutionrelative:my_shape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\my_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|solutionrelative:my_shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\my_shape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|solutionrelative:my_shape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\my_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769E7B1B-CA81-466F-80D2-75D85B0AA955}|My_Shape\\My_Shape.csproj|solutionrelative:my_shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4245DAF-CAF7-46DB-BADD-474B9A1EF6C7}|OOP_Lessons\\My_Range.csproj|d:\\\u0430\u0440\u0442\u0435\u043C\u0438\u0439\\c#\\lesson\\oop_lessons\\oop_lessons\\l1t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4245DAF-CAF7-46DB-BADD-474B9A1EF6C7}|OOP_Lessons\\My_Range.csproj|solutionrelative:oop_lessons\\l1t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +43,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\Program.cs",
-              "RelativeDocumentMoniker": "OOP_Lessons\\Program.cs",
-              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\Program.cs",
-              "RelativeToolTip": "OOP_Lessons\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Shape.cs",
+              "RelativeDocumentMoniker": "My_Shape\\Shape.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Shape.cs",
+              "RelativeToolTip": "My_Shape\\Shape.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAxwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:11:59.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "My_Shape\\Rectangle.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Rectangle.cs",
+              "RelativeToolTip": "My_Shape\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:55:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Circle.cs",
+              "RelativeDocumentMoniker": "My_Shape\\Circle.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Circle.cs",
+              "RelativeToolTip": "My_Shape\\Circle.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:53:43.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Square.cs",
+              "RelativeDocumentMoniker": "My_Shape\\Square.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Square.cs",
+              "RelativeToolTip": "My_Shape\\Square.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:52:55.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Triangle.cs",
+              "RelativeDocumentMoniker": "My_Shape\\Triangle.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Triangle.cs",
+              "RelativeToolTip": "My_Shape\\Triangle.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:52:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "L1T2.cs",
+              "DocumentMoniker": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\L1T2.cs",
+              "RelativeDocumentMoniker": "OOP_Lessons\\L1T2.cs",
+              "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\OOP_Lessons\\L1T2.cs",
+              "RelativeToolTip": "OOP_Lessons\\L1T2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T14:04:48.433Z",
               "EditorCaption": ""

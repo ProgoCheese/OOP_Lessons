@@ -1,0 +1,15 @@
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\bin\Debug\net8.0\My_Shape.exe
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\bin\Debug\net8.0\My_Shape.deps.json
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\bin\Debug\net8.0\My_Shape.runtimeconfig.json
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\bin\Debug\net8.0\My_Shape.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\bin\Debug\net8.0\My_Shape.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.AssemblyInfoInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.AssemblyInfo.cs
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.csproj.CoreCompileInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.sourcelink.json
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\refint\My_Shape.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\My_Shape.genruntimeconfig.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\My_Shape\obj\Debug\net8.0\ref\My_Shape.dll

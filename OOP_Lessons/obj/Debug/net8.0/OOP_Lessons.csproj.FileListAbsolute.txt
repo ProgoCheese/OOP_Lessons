@@ -1,0 +1,15 @@
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\OOP_Lessons.exe
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\OOP_Lessons.deps.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\OOP_Lessons.runtimeconfig.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\OOP_Lessons.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\bin\Debug\net8.0\OOP_Lessons.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.AssemblyInfoInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.AssemblyInfo.cs
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.csproj.CoreCompileInputs.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.sourcelink.json
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\refint\OOP_Lessons.dll
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.pdb
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\OOP_Lessons.genruntimeconfig.cache
+D:\Артемий\C#\Lesson\OOP_Lessons\OOP_Lessons\obj\Debug\net8.0\ref\OOP_Lessons.dll
