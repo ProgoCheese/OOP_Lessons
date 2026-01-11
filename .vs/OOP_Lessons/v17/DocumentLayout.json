@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,10 +44,9 @@
               "RelativeDocumentMoniker": "My_Shape\\Shape.cs",
               "ToolTip": "D:\\\u0410\u0440\u0442\u0435\u043C\u0438\u0439\\C#\\Lesson\\OOP_Lessons\\My_Shape\\Shape.cs",
               "RelativeToolTip": "My_Shape\\Shape.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAxwD0AAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:11:59.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T17:11:59.952Z"
             },
             {
               "$type": "Document",
@@ -63,8 +58,7 @@
               "RelativeToolTip": "My_Shape\\Rectangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:55:06.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:55:06.33Z"
             },
             {
               "$type": "Document",
@@ -76,8 +70,7 @@
               "RelativeToolTip": "My_Shape\\Circle.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAgwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:53:43.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:53:43.375Z"
             },
             {
               "$type": "Document",
@@ -89,8 +82,7 @@
               "RelativeToolTip": "My_Shape\\Square.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:52:55.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:52:55.407Z"
             },
             {
               "$type": "Document",
@@ -102,8 +94,7 @@
               "RelativeToolTip": "My_Shape\\Triangle.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowDMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:52:51.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T08:52:51.728Z"
             },
             {
               "$type": "Document",
@@ -115,8 +106,7 @@
               "RelativeToolTip": "OOP_Lessons\\L1T2.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwEcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T14:04:48.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T14:04:48.433Z"
             }
           ]
         }
